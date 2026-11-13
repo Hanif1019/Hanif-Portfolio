@@ -1,0 +1,24 @@
+# ==========================================
+# NEPSLEEPY - GIT IGNORE
+# ==========================================
+
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Dependencies (for future projects)
+node_modules/
