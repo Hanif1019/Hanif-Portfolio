@@ -1,5 +1,5 @@
 /* ==================================================
-   NEPSLEEPY PORTFOLIO
+    HANIF PORTFOLIO
    MAIN JAVASCRIPT
 
    01. INITIAL SETUP
@@ -16,7 +16,7 @@
    01. INITIAL SETUP
 ================================================== */
 
-console.log("NepSleepy portfolio JavaScript connected!");
+console.log("Hanif portfolio JavaScript connected!");
 
 
 // Select important HTML elements
