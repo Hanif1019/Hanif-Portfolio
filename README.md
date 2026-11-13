@@ -1,24 +1,26 @@
-# 🌙 Hanif — Personal Portfolio
+# Hanif — Personal Portfolio
 
-Welcome to **Hanif**, my personal portfolio website!
+Welcome to my personal portfolio website!
 
-This website showcases my journey as a Software Engineering student, including my technical skills, academic background, projects and achievements.
+I'm Hanif Ashraf, a Software Engineering student with a background in Information Technology.
+
+This portfolio showcases my academic journey, technical skills, software development projects and achievements.
 
 ## 🌐 Live Website
 
-Visit my portfolio:
-
-https://Hanif1019.github.io/Hanif-Portfolio/
+**View my portfolio:**  
+https://hanif1019.github.io/Hanif-Portfolio/
 
 ## ✨ Features
 
 - Responsive design for desktop and mobile devices
 - Dark and light theme switching
-- Smooth scrolling and interactive navigation
+- Interactive navigation and smooth scrolling
 - GSAP animations
-- Project showcase
+- Personal and academic project showcase
 - Education and technical skills sections
-- Contact and social media links
+- Contact and professional social media links
+- Basic SEO and Open Graph metadata for social sharing
 
 ## 🛠️ Technologies Used
 
@@ -28,14 +30,20 @@ https://Hanif1019.github.io/Hanif-Portfolio/
 - GSAP (GreenSock Animation Platform)
 - Git and GitHub
 - GitHub Pages
+- Visual Studio Code
 
 ## 📂 Project Structure
 
 ```text
-NepSleepy/
+MyPortfolio/
 ├── css/
 │   └── style.css
 ├── images/
+│   ├── profile.jpg
+│   ├── portfolio.png
+│   ├── student-system.png
+│   ├── Manuscript System.png
+│   └── social-preview.png
 ├── js/
 │   └── script.js
 ├── .gitignore
@@ -45,27 +53,41 @@ NepSleepy/
 
 ## 💻 Running Locally
 
-1. Clone this repository.
+1. Clone this repository to your computer.
 2. Open the project folder in Visual Studio Code.
-3. Open `index.html` using Live Server.
+3. Install the Live Server extension if necessary.
+4. Open `index.html` using Live Server.
 
 ## 📚 About This Project
 
-Hanif was developed as a personal learning project to strengthen my frontend development skills.
+This portfolio was developed as a personal learning project to strengthen my frontend development skills and gain practical experience in building and deploying websites.
 
-Through this project, I practiced responsive web design, JavaScript interactions, animation implementation, version control and website deployment.
+Throughout development, I practiced:
+
+- Structuring webpages using semantic HTML
+- Creating responsive layouts with CSS
+- Implementing interactive features using JavaScript
+- Adding animations with GSAP
+- Managing source code using Git and GitHub
+- Deploying a website using GitHub Pages
 
 ## 🚀 Future Improvements
 
-- Search engine optimization
-- Accessibility improvements
+- Further accessibility enhancements
 - Website performance optimization
-- Additional portfolio projects
+- Additional software development projects
+- Continued improvements to the user experience
 
 ## 📬 Contact
 
 Feel free to connect with me through the contact section of my portfolio.
 
+You can also explore my GitHub profile:
+
+**GitHub:** https://github.com/Hanif1019
+
 ---
+
+Developed by **Hanif Ashraf**.
 
 Made with dedication and curiosity. 🌙
